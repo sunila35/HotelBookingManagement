@@ -1,0 +1,303 @@
+[
+  {
+    "hotelName": "Lemon Tree Premier",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A vibrant and quirky hotel in the heart of Jaipur, offering a refreshing experience with its stylish interiors.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Swimming Pool", "Spa and Wellness Center", "Breakfast Included"],
+    "hotelImageLink": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/542820408.webp?k=f23f85b79daa2340be8441880d2e06ee17e7f29334962b7718cd73cfe972033e&o=",
+    "rooms": [
+      { "roomNumber": "1401", "roomType": "Deluxe", "pricePerNight": 7000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1402", "roomType": "Suite", "pricePerNight": 10500, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Novotel",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A modern hotel on the SG Highway, offering a perfect blend of comfort and convenience for business and leisure travelers.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Air Conditioning", "Restaurant", "Room Service", "Free Parking"],
+    "hotelImageLink": "https://t3.ftcdn.net/jpg/04/92/84/24/360_F_492842470_XrLcrVRbLlJrHsKQVdhTRTQN80iJBt1W.jpg",
+    "rooms": [
+      { "roomNumber": "1301", "roomType": "Executive", "pricePerNight": 7500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1302", "roomType": "Suite", "pricePerNight": 11250, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Oberoi",
+    "hotelLocation": "Mumbai",
+    "hotelDescription": "A stunning example of modern architecture, The Oberoi in Mumbai offers panoramic views of the ocean and the city's skyline.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Spa and Wellness Center", "Swimming Pool", "Restaurant", "Airport Shuttle"],
+    "hotelImageLink": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_13,w_930,h_524,r_0,c_crop,q_80,fl_progressive/w_500,f_auto,c_fit/mango-grove/Hotels_in_Chandigarh_(CHD)_India",
+    "rooms": [
+      { "roomNumber": "101", "roomType": "Deluxe", "pricePerNight": 1500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "102", "roomType": "Suite", "pricePerNight": 2500, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Leela Palace",
+    "hotelLocation": "New Delhi",
+    "hotelDescription": "An epitome of luxury in the heart of India's capital, this hotel is known for its grand interiors and world-class service.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Swimming Pool", "Spa and Wellness Center", "Airport Shuttle"],
+    "hotelImageLink": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6289-01:3by2?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.3&wid=335&hei=223&qlt=80",
+    "rooms": [
+      { "roomNumber": "301", "roomType": "Grande Deluxe", "pricePerNight": 2200, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "302", "roomType": "Suite", "pricePerNight": 3300, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "ITC Maurya",
+    "hotelLocation": "New Delhi",
+    "hotelDescription": "A landmark hotel in Delhi, ITC Maurya is renowned for its culinary excellence and its commitment to sustainability.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Fitness Center", "Spa and Wellness Center", "Free Parking"],
+    "hotelImageLink": "https://hotels.eglobe-solutions.com/eglobeimages/hotels/India/India_New%20Delhi_Hotels_2630_02.jpg",
+    "rooms": [
+      { "roomNumber": "401", "roomType": "Executive Club", "pricePerNight": 2000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "402", "roomType": "Suite", "pricePerNight": 3000, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Taj Mahal Palace",
+    "hotelLocation": "Mumbai",
+    "hotelDescription": "An iconic hotel overlooking the Gateway of India, offering a blend of history, luxury, and warm hospitality.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Spa and Wellness Center", "Swimming Pool", "Breakfast Included"],
+    "hotelImageLink": "https://gos3.ibcdn.com/861c7eb83e5811e882140a3899a84e24.jpg",
+    "rooms": [
+      { "roomNumber": "501", "roomType": "Luxury Grande", "pricePerNight": 2800, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "502", "roomType": "Suite", "pricePerNight": 4200, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Rambagh Palace",
+    "hotelLocation": "Kolkata",
+    "hotelDescription": "Once the residence of the Maharaja of Jaipur, this palace hotel is a testament to royal grandeur and elegance.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Spa and Wellness Center", "Air Conditioning", "Swimming Pool"],
+    "hotelImageLink": "https://im.rediff.com/money/2014/aug/26indias-best-hotels1.jpg",
+    "rooms": [
+      { "roomNumber": "601", "roomType": "Palace Room", "pricePerNight": 3500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "602", "roomType": "Suite", "pricePerNight": 5250, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Hyatt Regency",
+    "hotelLocation": "Kolkata",
+    "hotelDescription": "A contemporary business hotel with a resort-like feel, located in the rapidly growing IT hub of Salt Lake City.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Air Conditioning", "Fitness Center", "Restaurant", "Free Parking"],
+    "hotelImageLink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/9f/6a/31/hotel-exterior.jpg?w=400&h=-1&s=1",
+    "rooms": [
+      { "roomNumber": "701", "roomType": "Standard King", "pricePerNight": 8000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "702", "roomType": "Suite", "pricePerNight": 12000, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Park",
+    "hotelLocation": "Chennai",
+    "hotelDescription": "A trendy, art-filled hotel in the heart of Chennai, known for its vibrant nightlife and chic design.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Air Conditioning", "Restaurant", "Room Service", "Breakfast Included"],
+    "hotelImageLink": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/640350980.webp?k=777a747cc5ee7e621aa1f1692d208af1c145e342f0bd9d81167dc41ee066c372&o=",
+    "rooms": [
+      { "roomNumber": "801", "roomType": "Luxury Room", "pricePerNight": 9000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "802", "roomType": "Suite", "pricePerNight": 13500, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "JW Marriott",
+    "hotelLocation": "Bengaluru",
+    "hotelDescription": "A luxury hotel in the heart of the 'Garden City', offering sophisticated comfort and a range of business and leisure facilities.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Air Conditioning", "Swimming Pool", "Restaurant", "Spa and Wellness Center"],
+    "hotelImageLink": "https://thumbs.dreamstime.com/b/hotel-building-10664473.jpg",
+    "rooms": [
+      { "roomNumber": "901", "roomType": "Deluxe", "pricePerNight": 1800, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "902", "roomType": "Suite", "pricePerNight": 2700, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Trident",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Set in the heart of HITEC City, this hotel combines elegant interiors with warm, personalized service.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Fitness Center", "Free Parking", "Room Service"],
+    "hotelImageLink": "https://media.istockphoto.com/id/503019528/photo/road-front-of-luxury-building-in-clear-sky-at-night.jpg?s=612x612&w=0&k=20&c=xkjUByXNE5SdMSeYxLqIwweZMg9XZ6xnWEK7ypdeO4I=",
+    "rooms": [
+      { "roomNumber": "1001", "roomType": "Deluxe Garden View", "pricePerNight": 1200, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1002", "roomType": "Suite", "pricePerNight": 1800, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Westin",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Located in the serene Koregaon Park area, The Westin offers a refreshing ambiance and rejuvenating amenities.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Fitness Center", "Spa and Wellness Center", "Restaurant", "Air Conditioning"],
+    "hotelImageLink": "https://thumbs.dreamstime.com/b/modern-white-hotel-building-miami-palm-trees-architecture-design-balconies-large-windows-luxury-condos-apartments-rent-385632249.jpg",
+    "rooms": [
+      { "roomNumber": "1101", "roomType": "Premium", "pricePerNight": 1000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1102", "roomType": "Suite", "pricePerNight": 1500, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Radisson Blu",
+    "hotelLocation": "Goa",
+    "hotelDescription": "A resort-style hotel just a short walk from Cavelossim Beach, perfect for a relaxing beach holiday.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Swimming Pool", "Breakfast Included", "Free Parking"],
+    "hotelImageLink": "https://static.theprint.in/wp-content/uploads/2025/03/SaltStayz-a-chain-of-budget-hotels-in-DLF-Phase-3-696x392.jpg?compress=true&quality=80&w=376&dpr=2.6",
+    "rooms": [
+      { "roomNumber": "1201", "roomType": "Superior", "pricePerNight": 9500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1202", "roomType": "Suite", "pricePerNight": 14250, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Vivanta",
+    "hotelLocation": "Bengaluru",
+    "hotelDescription": "A stylish hotel in Whitefield, Bengaluru's tech hub, offering a mix of work and play with its modern amenities.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Air Conditioning", "Restaurant", "Fitness Center", "Room Service"],
+    "hotelImageLink": "https://gos3.ibcdn.com/af7c20ecc52c11ecb7230a58a9feac02.jpeg",
+    "rooms": [
+      { "roomNumber": "1501", "roomType": "Superior", "pricePerNight": 1400, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1502", "roomType": "Suite", "pricePerNight": 2100, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Taj Lake Palace",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Floating in the middle of Lake Pichola, this heritage hotel offers a truly royal experience with its majestic architecture and breathtaking views.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Spa and Wellness Center", "Swimming Pool", "Restaurant", "Airport Shuttle"],
+    "hotelImageLink": "https://media.istockphoto.com/id/187363337/photo/modern-hotel-building-in-summer.jpg?s=612x612&w=0&k=20&c=eRVDcadZTKs5t2K-CEeXT6DiJQ68Fnbs6u9F-0S_v8Q=",
+    "rooms": [
+      { "roomNumber": "201", "roomType": "Palace Room", "pricePerNight": 3000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "202", "roomType": "Royal Suite", "pricePerNight": 4500, "maxOccupancy": 3, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  }
+,
+  {
+    "hotelName": "The Pearl",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A modern hotel with a classic touch, offering a comfortable and memorable stay.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Swimming Pool", "Free Parking"],
+    "hotelImageLink": "https://media-cdn.tripadvisor.com/media/photo-s/2c/2f/20/77/facadejpeg.jpg",
+    "rooms": [
+      { "roomNumber": "1601", "roomType": "Deluxe", "pricePerNight": 6000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1602", "roomType": "Suite", "pricePerNight": 9000, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Deccan",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Experience the warmth of Deccan hospitality in a contemporary setting.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Fitness Center", "Room Service"],
+    "hotelImageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxX4g1Lv1SCymgWaphoHAFJY4ZsuTccgw-A&s",
+    "rooms": [
+      { "roomNumber": "1701", "roomType": "Standard", "pricePerNight": 5500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1702", "roomType": "Executive", "pricePerNight": 8000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Charminar View",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Enjoy stunning views of the city's most iconic landmark from the comfort of your room.",
+    "hotelRating": 3,
+    "hotelAmenities": ["Free Wi-Fi", "Restaurant", "Rooftop Dining"],
+    "hotelImageLink": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-09/24/full/1474661181-3127.jpg",
+    "rooms": [
+      { "roomNumber": "1801", "roomType": "Standard", "pricePerNight": 4000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1802", "roomType": "Deluxe", "pricePerNight": 5500, "maxOccupancy": 3, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Sleeper's Inn",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A cozy and comfortable inn, perfect for a good night's sleep.",
+    "hotelRating": 3,
+    "hotelAmenities": ["Free Wi-Fi", "Breakfast Included", "Air Conditioning"],
+    "hotelImageLink": "https://www.sleepermagazine.com/wp-content/uploads/2014/09/337387.jpg",
+    "rooms": [
+      { "roomNumber": "1901", "roomType": "Single", "pricePerNight": 3000, "maxOccupancy": 1, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "1902", "roomType": "Double", "pricePerNight": 4500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Regency Grand",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Experience grand luxury at the Regency Grand, located in the heart of the city.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Spa", "Swimming Pool", "Fine Dining"],
+    "hotelImageLink": "https://static.businessworld.in/1553844437_SUxSFq_Hyatt_Regency_Lexington_P050_Exterior_16x9_adapt_1920_1080.jpg",
+    "rooms": [
+      { "roomNumber": "2001", "roomType": "Luxury Suite", "pricePerNight": 15000, "maxOccupancy": 3, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] },
+      { "roomNumber": "2002", "roomType": "Deluxe", "pricePerNight": 12000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "The Royal Oberoi",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "An iconic hotel offering unparalleled luxury and service.",
+    "hotelRating": 5,
+    "hotelAmenities": ["Free Wi-Fi", "Butler Service", "Spa", "Swimming Pool"],
+    "hotelImageLink": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2017/12/15110551/151217oberoi_01.jpg",
+    "rooms": [
+      { "roomNumber": "2101", "roomType": "Royal Suite", "pricePerNight": 25000, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] },
+      { "roomNumber": "2102", "roomType": "Deluxe", "pricePerNight": 20000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Hampton Inn",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A reliable choice for comfort and convenience, from Hilton.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Free Breakfast", "Fitness Center", "Business Center"],
+    "hotelImageLink": "https://skift.com/wp-content/uploads/2025/01/Hampton-by-Hilton-Guangzhou-Xintang-Railway-Station-Exterior-scaled-e1736399492109.jpg",
+    "rooms": [
+      { "roomNumber": "2201", "roomType": "King Room", "pricePerNight": 7000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "2202", "roomType": "Suite", "pricePerNight": 9500, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Traveler's Choice",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "The preferred choice for travelers seeking comfort and value.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Airport Shuttle", "24-Hour Front Desk"],
+    "hotelImageLink": "https://www.ttwindia.com/wp-content/uploads/2024/09/3.jpg",
+    "rooms": [
+      { "roomNumber": "2301", "roomType": "Standard", "pricePerNight": 4800, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "2302", "roomType": "Suite", "pricePerNight": 6800, "maxOccupancy": 3, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "City Lights Hotel",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "A hotel that captures the vibrant energy of the city.",
+    "hotelRating": 3,
+    "hotelAmenities": ["Free Wi-Fi", "Bar", "City View Rooms"],
+    "hotelImageLink": "https://static.asianetnews.com/images/w-412,h-232,imgid-ani20250928093402,imgname-image-fa44e999-6c2c-4ede-9734-a598162a6831.jpg",
+    "rooms": [
+      { "roomNumber": "2401", "roomType": "City View", "pricePerNight": 5200, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] },
+      { "roomNumber": "2402", "roomType": "Suite", "pricePerNight": 7200, "maxOccupancy": 4, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] }
+    ]
+  },
+  {
+    "hotelName": "Hospitality Hub",
+    "hotelLocation": "Hyderabad",
+    "hotelDescription": "Your central hub for exploring the best of Hyderabad.",
+    "hotelRating": 4,
+    "hotelAmenities": ["Free Wi-Fi", "Tour Desk", "Restaurant", "Car Rental"],
+    "hotelImageLink": "https://hospitalitybizindia.com/wp-content/uploads/2025/09/IMG_8214.jpeg",
+    "rooms": [
+      { "roomNumber": "2501", "roomType": "Executive", "pricePerNight": 6500, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/suiteroom.jpeg"] },
+      { "roomNumber": "2502", "roomType": "Deluxe", "pricePerNight": 5000, "maxOccupancy": 2, "isRoomOperational": true, "roomImages": ["/images/deluxeroom.jpeg"] }
+    ]
+  }
+]
